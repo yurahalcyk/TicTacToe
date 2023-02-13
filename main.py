@@ -154,7 +154,6 @@ class TicTacToe:
             except ValueError as err:
                 print(err)
 
-        print("testing commit and push through pycharm")
         print()
         self.show_board()
 
